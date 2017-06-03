@@ -159,7 +159,8 @@ testing and helping with coding: 3m, D-leon, eagle, D-MK1 and many others
      <multiplay>
       <chat_display>1</chat_display>
       <generic> 
-        
+
+        <int n="0" alias="/sim/failure-manager/engines/engine/serviceable"/>        
         <int type="int" n="1" alias="/sim/signals/fdm-ready" />
         <int type="int" n="2" alias="/controls/shuttle/door/position"> 0 </int>
         <int type="int" n="3" alias="/controls/chokes/activ">  0 </int>
@@ -446,6 +447,9 @@ testing and helping with coding: 3m, D-leon, eagle, D-MK1 and many others
     <warning>
       <file>Aircraft/AN-225-Mrija/Nasal/AN-225-stall.nas</file>
     </warning>
+    <damage>
+     <file>Aircraft/AN-225-Mrija/Nasal/damage.nas</file>     
+    </damage>
   </nasal>   
 
 </PropertyList>

@@ -1056,7 +1056,67 @@ AN225 model/animation config.
   </offsets>
   </model>                                              -->
   
+ 
+    <model>
+    <path>Aircraft/AN-225-Mrija/Models/Effects/engines/enginefire.xml</path>
+        <name>engine1fire</name>
+    <offsets>
+      <x-m>  9.09276 </x-m>
+      <y-m>  -24.78620 </y-m>
+      <z-m> 0.91067 </z-m>
+    </offsets>
+  </model> 
   
+    <model>
+    <path>Aircraft/AN-225-Mrija/Models/Effects/engines/enginefire.xml</path>
+        <name>engine2fire</name>
+    <offsets>
+      <x-m>  4.57504 </x-m>
+      <y-m>  -17.36070 </y-m>
+      <z-m> 1.08802 </z-m>
+    </offsets>
+  </model> 
+
+    <model>
+    <path>Aircraft/AN-225-Mrija/Models/Effects/engines/enginefire.xml</path>
+        <name>engine3fire</name>
+    <offsets>
+      <x-m> -0.17903 </x-m>
+      <y-m>  -9.83510 </y-m>
+      <z-m> 1.45606 </z-m>
+    </offsets>
+  </model> 
+
+    <model>
+    <path>Aircraft/AN-225-Mrija/Models/Effects/engines/enginefire.xml</path>
+        <name>engine4fire</name>
+    <offsets>
+      <x-m> -1.7903 </x-m>
+      <y-m>  9.53810 </y-m>
+      <z-m> 1.45606 </z-m>
+    </offsets>
+  </model> 
+
+    <model>
+    <path>Aircraft/AN-225-Mrija/Models/Effects/engines/enginefire.xml</path>
+        <name>engine5fire</name>
+    <offsets>
+      <x-m>  7.63799 </x-m>
+      <y-m>  17.37990 </y-m>
+      <z-m> 1.18978 </z-m>
+    </offsets>
+  </model> 
+
+    <model>
+    <path>Aircraft/AN-225-Mrija/Models/Effects/engines/enginefire.xml</path>
+        <name>engine6fire</name>
+    <offsets>
+      <x-m>  9.09276 </x-m>
+      <y-m>  24.97860 </y-m>
+      <z-m> 0.91068 </z-m>
+    </offsets>
+  </model> 
+
   <model>
     <name>Shuttle</name>
     <path>Aircraft/AN-225-Mrija/Models/Effects/Submodels/Shuttle/shuttle.xml</path>
